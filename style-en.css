@@ -1,0 +1,37 @@
+#local-rounds span {
+    width: 205px;
+}
+
+#schedule_survival-guide span {
+    width: 380px;
+}
+
+#location span {
+    width: 140px;
+}
+
+#participants span {
+    width: 185px;
+}
+
+#lives span {
+    width: 195px;
+}
+
+#partners span {
+    width: 130px;
+}
+
+#universities span {
+    width: 310px;
+}
+
+#span-organizers {
+    width: 190px;
+}
+
+@media (max-width: 400px) {
+    #schedule_survival-guide span {
+        width: 290px;
+    }
+}
