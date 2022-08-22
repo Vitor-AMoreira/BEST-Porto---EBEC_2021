@@ -126,7 +126,7 @@ header img {
     justify-content: space-around;
     width: clamp(250px, 45vw, 750px);
     height: clamp(88.8px, 16vw, 266.6px);
-    background: rgba(15, 187, 43, 0.87);
+    background: rgba(238, 238, 238, 0.87);
     box-shadow: 0px 0px 5px rgba(218, 218, 218);
 }
 
@@ -204,7 +204,16 @@ h2 {
     color: rgb(68, 68, 68);
     font-size: 30px;
     font-weight: bold;
-    margin: 10px 0 10px;
+    text-align: center;
+}
+
+#countdown-header {
+    width: 100%;
+}
+
+#countdown-header p {
+    margin: 0;
+    text-align: right;
 }
 
 #timer {

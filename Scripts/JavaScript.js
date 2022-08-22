@@ -13,7 +13,7 @@ function rotate_pulley() {
 var header = document.querySelector('header');
 
 // Set CountDown
-var countDownDate = new Date("14:00 May 14, 2021").getTime();
+var countDownDate = new Date("14:00 May 14, 2023").getTime();
 
 var rotateS = 0;
 var rotateM = 0
