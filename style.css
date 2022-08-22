@@ -477,13 +477,13 @@ h3 {
 }
 
 #participants .team {
-    background: #4D9737;
+    border: solid 3px #4D9737;
     padding: 5px 0px;
     border-radius: 10px;
 }
 
 #participants .team p {
-    color: white;
+    color: #4D9737;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 0.1;
